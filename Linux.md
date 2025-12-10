@@ -1,1 +1,4 @@
-sudo apt install git
+# Linux Notes
+
+
+* sudo apt install git
